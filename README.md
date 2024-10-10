@@ -1,6 +1,9 @@
 # DELTA-COOLING-SYSTEM-WEBSITE-AUTOMATION
 This project automates the Delta Cooling Systems website testing process using Robot Framework and SeleniumLibrary. It verifies key functionalities such as login, navigation through services, verifying contact details, and submitting the contact form.
 
+![image](https://github.com/user-attachments/assets/a6ba91e1-9b0e-4c4f-840c-e344e46b9a7d)
+![image](https://github.com/user-attachments/assets/a5fbeefd-9b26-4d77-afb6-1be0b75dbe9c)
+
 # Table of Contents
 - [Project Overview](#project-overview)
 - [Project Structure](#project-structure)
